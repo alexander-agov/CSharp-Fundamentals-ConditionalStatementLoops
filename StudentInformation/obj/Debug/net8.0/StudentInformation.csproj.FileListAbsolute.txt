@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\StudentInformation\obj\Debug\net8.0\StudentInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\StudentInformation\obj\Debug\net8.0\StudentInformation.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\StudentInformation\obj\Debug\net8.0\StudentInformation.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\StudentInformation\obj\Debug\net8.0\StudentInformation.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\StudentInformation\bin\Debug\net8.0\StudentInformation.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\StudentInformation\bin\Debug\net8.0\StudentInformation.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\StudentInformation\bin\Debug\net8.0\StudentInformation.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\StudentInformation\bin\Debug\net8.0\StudentInformation.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\StudentInformation\bin\Debug\net8.0\StudentInformation.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\StudentInformation\obj\Debug\net8.0\StudentInformation.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\StudentInformation\obj\Debug\net8.0\refint\StudentInformation.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\StudentInformation\obj\Debug\net8.0\StudentInformation.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\StudentInformation\obj\Debug\net8.0\StudentInformation.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\StudentInformation\obj\Debug\net8.0\ref\StudentInformation.dll
