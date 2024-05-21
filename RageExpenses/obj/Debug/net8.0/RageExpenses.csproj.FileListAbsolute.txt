@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\RageExpenses\bin\Debug\net8.0\RageExpenses.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\RageExpenses\bin\Debug\net8.0\RageExpenses.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\RageExpenses\bin\Debug\net8.0\RageExpenses.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\RageExpenses\bin\Debug\net8.0\RageExpenses.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\RageExpenses\bin\Debug\net8.0\RageExpenses.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\RageExpenses\obj\Debug\net8.0\RageExpenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\RageExpenses\obj\Debug\net8.0\RageExpenses.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\RageExpenses\obj\Debug\net8.0\RageExpenses.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\RageExpenses\obj\Debug\net8.0\RageExpenses.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\RageExpenses\obj\Debug\net8.0\RageExpenses.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\RageExpenses\obj\Debug\net8.0\refint\RageExpenses.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\RageExpenses\obj\Debug\net8.0\RageExpenses.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\RageExpenses\obj\Debug\net8.0\RageExpenses.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\RageExpenses\obj\Debug\net8.0\ref\RageExpenses.dll
