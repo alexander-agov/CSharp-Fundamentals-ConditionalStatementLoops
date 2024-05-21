@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\PrintAndSum\bin\Debug\net8.0\PrintAndSum.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\PrintAndSum\bin\Debug\net8.0\PrintAndSum.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\PrintAndSum\bin\Debug\net8.0\PrintAndSum.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\PrintAndSum\bin\Debug\net8.0\PrintAndSum.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\PrintAndSum\bin\Debug\net8.0\PrintAndSum.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\PrintAndSum\obj\Debug\net8.0\PrintAndSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\PrintAndSum\obj\Debug\net8.0\PrintAndSum.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\PrintAndSum\obj\Debug\net8.0\PrintAndSum.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\PrintAndSum\obj\Debug\net8.0\PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\PrintAndSum\obj\Debug\net8.0\PrintAndSum.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\PrintAndSum\obj\Debug\net8.0\refint\PrintAndSum.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\PrintAndSum\obj\Debug\net8.0\PrintAndSum.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\PrintAndSum\obj\Debug\net8.0\PrintAndSum.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\PrintAndSum\obj\Debug\net8.0\ref\PrintAndSum.dll
