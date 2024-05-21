@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\Backin30Minutes\obj\Debug\net8.0\Backin30Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\Backin30Minutes\obj\Debug\net8.0\Backin30Minutes.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\Backin30Minutes\obj\Debug\net8.0\Backin30Minutes.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\Backin30Minutes\obj\Debug\net8.0\Backin30Minutes.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\Backin30Minutes\bin\Debug\net8.0\Backin30Minutes.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\Backin30Minutes\bin\Debug\net8.0\Backin30Minutes.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\Backin30Minutes\bin\Debug\net8.0\Backin30Minutes.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\Backin30Minutes\bin\Debug\net8.0\Backin30Minutes.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\Backin30Minutes\bin\Debug\net8.0\Backin30Minutes.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\Backin30Minutes\obj\Debug\net8.0\Backin30Minutes.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\Backin30Minutes\obj\Debug\net8.0\refint\Backin30Minutes.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\Backin30Minutes\obj\Debug\net8.0\Backin30Minutes.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\Backin30Minutes\obj\Debug\net8.0\Backin30Minutes.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\Backin30Minutes\obj\Debug\net8.0\ref\Backin30Minutes.dll
