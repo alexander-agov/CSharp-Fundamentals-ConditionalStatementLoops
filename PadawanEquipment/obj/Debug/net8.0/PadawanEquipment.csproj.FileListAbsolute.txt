@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\PadawanEquipment\bin\Debug\net8.0\PadawanEquipment.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\PadawanEquipment\bin\Debug\net8.0\PadawanEquipment.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\PadawanEquipment\bin\Debug\net8.0\PadawanEquipment.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\PadawanEquipment\bin\Debug\net8.0\PadawanEquipment.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\PadawanEquipment\bin\Debug\net8.0\PadawanEquipment.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\PadawanEquipment\obj\Debug\net8.0\PadawanEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\PadawanEquipment\obj\Debug\net8.0\PadawanEquipment.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\PadawanEquipment\obj\Debug\net8.0\PadawanEquipment.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\PadawanEquipment\obj\Debug\net8.0\PadawanEquipment.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\PadawanEquipment\obj\Debug\net8.0\PadawanEquipment.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\PadawanEquipment\obj\Debug\net8.0\refint\PadawanEquipment.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\PadawanEquipment\obj\Debug\net8.0\PadawanEquipment.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\PadawanEquipment\obj\Debug\net8.0\PadawanEquipment.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\PadawanEquipment\obj\Debug\net8.0\ref\PadawanEquipment.dll
