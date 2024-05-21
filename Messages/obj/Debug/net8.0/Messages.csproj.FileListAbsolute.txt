@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\Messages\obj\Debug\net8.0\Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\Messages\obj\Debug\net8.0\Messages.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\Messages\obj\Debug\net8.0\Messages.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\Messages\obj\Debug\net8.0\Messages.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\Messages\bin\Debug\net8.0\Messages.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\Messages\bin\Debug\net8.0\Messages.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\Messages\bin\Debug\net8.0\Messages.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\Messages\bin\Debug\net8.0\Messages.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\Messages\bin\Debug\net8.0\Messages.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\Messages\obj\Debug\net8.0\Messages.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\Messages\obj\Debug\net8.0\refint\Messages.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\Messages\obj\Debug\net8.0\Messages.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\Messages\obj\Debug\net8.0\Messages.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\Messages\obj\Debug\net8.0\ref\Messages.dll
