@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\GamingStore\bin\Debug\net8.0\GamingStore.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\GamingStore\bin\Debug\net8.0\GamingStore.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\GamingStore\bin\Debug\net8.0\GamingStore.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\GamingStore\bin\Debug\net8.0\GamingStore.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\GamingStore\bin\Debug\net8.0\GamingStore.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\GamingStore\obj\Debug\net8.0\GamingStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\GamingStore\obj\Debug\net8.0\GamingStore.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\GamingStore\obj\Debug\net8.0\GamingStore.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\GamingStore\obj\Debug\net8.0\GamingStore.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\GamingStore\obj\Debug\net8.0\GamingStore.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\GamingStore\obj\Debug\net8.0\refint\GamingStore.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\GamingStore\obj\Debug\net8.0\GamingStore.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\GamingStore\obj\Debug\net8.0\GamingStore.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\FUNDAMENTALS\ConditionalStatementLoops\GamingStore\obj\Debug\net8.0\ref\GamingStore.dll
